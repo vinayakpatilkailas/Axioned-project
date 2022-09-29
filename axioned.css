@@ -57,6 +57,7 @@ ul{
     /* border: 1px solid #000; */
     display: flex;
     margin-top: -5px;
+    list-style:none;
 }
 ul li {
     padding: 20px;
